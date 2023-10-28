@@ -5,7 +5,7 @@ It was made in the first semester of Computer Engineering to put to use our know
 
 ## Collaborators
 
-Vítor Braghittoni, Nicolas Birochi, Henrico Birochi, and Edgar Camacho created this project.
+[Vítor Braghittoni](https://github.com/VBraghittoni), [Nicolas Birochi](https://github.com/nicholasbirochi), [Henrico Birochi](https://github.com/henricobirochi), and [Edgar Camacho](https://github.com/Edgarcsr) created this project.
 
 ## How it works
 
