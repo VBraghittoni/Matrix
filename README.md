@@ -1,6 +1,6 @@
 # Matrix: encoding reality
 
-Matrix uses matrices to cryptograph messages.
+"Matrix" is a project that uses matrices to cryptograph messages.
 It was made in the first semester of Computer Engineering to put to use our knowledge of algorithms and algebra.
 
 ## Collaborators
