@@ -1,7 +1,7 @@
 # Matrix: encoding reality
 
 "Matrix" is a project that uses matrices to cryptograph messages.
-It was made in the first semester of Computer Engineering to put to use our knowledge of algorithms and algebra.
+It was made in the first semester of Computer Engineering to put to use our knowledge of algorithms and linear algebra.
 
 ## Collaborators
 
