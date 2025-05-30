@@ -1,8 +1,0 @@
-C:\Users\vitor\Desktop\(PT- BR) Matrix\(PT- BR) Matrix\bin\Debug\(PT- BR) Matrix.exe.config
-C:\Users\vitor\Desktop\(PT- BR) Matrix\(PT- BR) Matrix\bin\Debug\(PT- BR) Matrix.exe
-C:\Users\vitor\Desktop\(PT- BR) Matrix\(PT- BR) Matrix\bin\Debug\(PT- BR) Matrix.pdb
-C:\Users\vitor\Desktop\(PT- BR) Matrix\(PT- BR) Matrix\obj\Debug\(PT- BR) Matrix.csproj.AssemblyReference.cache
-C:\Users\vitor\Desktop\(PT- BR) Matrix\(PT- BR) Matrix\obj\Debug\(PT- BR) Matrix.csproj.SuggestedBindingRedirects.cache
-C:\Users\vitor\Desktop\(PT- BR) Matrix\(PT- BR) Matrix\obj\Debug\(PT- BR) Matrix.csproj.CoreCompileInputs.cache
-C:\Users\vitor\Desktop\(PT- BR) Matrix\(PT- BR) Matrix\obj\Debug\(PT- BR) Matrix.exe
-C:\Users\vitor\Desktop\(PT- BR) Matrix\(PT- BR) Matrix\obj\Debug\(PT- BR) Matrix.pdb

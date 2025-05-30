@@ -16,7 +16,7 @@ It was developed during the first semester of Computer Engineering to apply our 
 
 ## 🚀 How to Run
 
-1. Navigate to the `Executable` folder.
+1. Navigate to the `Executable files` folder.
 2. Select your preferred language.
 3. Download the `.exe` file.
 4. Run the executable.
