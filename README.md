@@ -1,27 +1,56 @@
-# Matrix: encoding reality
+# Matrix: Encoding Reality
 
-"Matrix" is a project that uses matrices to cryptograph messages.
-It was made in the first semester of Computer Engineering to put to use our knowledge of algorithms and linear algebra.
+**Matrix** is a project that uses matrices to encrypt and decrypt messages.  
+It was developed during the first semester of Computer Engineering to apply our knowledge of algorithms and linear algebra.
 
-## Collaborators
+---
 
-[Vítor Braghittoni](https://github.com/VBraghittoni), [Nicolas Birochi](https://github.com/nicholasbirochi), [Henrico Birochi](https://github.com/henricobirochi), and [Edgar Camacho](https://github.com/Edgarcsr) created this project.
+## 👥 Collaborators
 
-## How to run it
+- [Vítor Braghittoni](https://github.com/VBraghittoni)  
+- [Nicolas Birochi](https://github.com/nicholasbirochi)  
+- [Henrico Birochi](https://github.com/henricobirochi)  
+- [Edgar Camacho](https://github.com/Edgarcsr)
 
-In the folder "Executable", select your language of preference, download the file '.exe' file, and then, run it.
+---
 
-## How it works
+## 🚀 How to Run
 
-### Encoding a message:
-1. The message is received, converted into numbers, and transformed into several 2x2 matrices (with spaces in the end, if necessary).
-2. Password is converted into a 2x2 matrix using Jacob´s theorem*.
-3. Matrices of step 1 are all multiplied by the matrix of step 2, resulting in cryptographed matrices that are converted to the encoded message and returned to the user.
+1. Navigate to the `Executable` folder.
+2. Select your preferred language.
+3. Download the `.exe` file.
+4. Run the executable.
 
-### Decoding a message:
+---
+
+## 🛠️ How It Works
+
+### 🔐 Encoding a Message
+
+1. The message is received, converted into numbers, and split into multiple 2x2 matrices (adding spaces at the end if necessary).
+2. The password is converted into a 2x2 matrix using **Jacob’s theorem** (*see note below*).
+3. Each message matrix is multiplied by the password matrix.
+4. The resulting cryptographed matrices are converted back into the encoded message and returned to the user.
+
+---
+
+### 🔓 Decoding a Message
+
 1. Given an encoded message and a password, the program transforms both into matrices.
-2. The password matrix is transformed into its inverse.
-3. The encoded message matrices are multiplied by the INVERSE of the password, decoding the message.
-4. The resulting matrices are transformed into words, and those are returned to the user.
+2. The password matrix is converted into its **inverse**.
+3. The encoded message matrices are multiplied by the **inverse** of the password matrix, decoding the message.
+4. The resulting matrices are transformed back into readable text and returned to the user.
 
-*This process maintains the determinant of the password matrix equaling one, which is necessary for the functionality of transforming the numbers into characters and vice-versa.
+---
+
+### ℹ️ Note
+
+> This process ensures that the determinant of the password matrix equals **1**,  
+> which is essential for correctly converting between numbers and characters.
+
+---
+
+## 🧮 Key Concept
+
+The project leverages linear algebra concepts, particularly matrix multiplication and inversion, to perform encryption and decryption securely and efficiently.
+
