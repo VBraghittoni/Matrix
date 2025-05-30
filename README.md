@@ -7,6 +7,10 @@ It was made in the first semester of Computer Engineering to put to use our know
 
 [Vítor Braghittoni](https://github.com/VBraghittoni), [Nicolas Birochi](https://github.com/nicholasbirochi), [Henrico Birochi](https://github.com/henricobirochi), and [Edgar Camacho](https://github.com/Edgarcsr) created this project.
 
+## How to run it
+
+In the folder "Executable", select your language of preference, download the file '.exe' file, and then, run it.
+
 ## How it works
 
 ### Encoding a message:
