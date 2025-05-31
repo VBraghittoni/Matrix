@@ -1,4 +1,5 @@
 # Matrix: Encoding Reality
+![image](https://github.com/user-attachments/assets/a1699701-be25-4d80-8478-2135d6304123)
 
 **Matrix** is a project that uses matrices to encrypt and decrypt messages.  
 It was developed during the first semester of Computer Engineering to apply our knowledge of algorithms and linear algebra.
